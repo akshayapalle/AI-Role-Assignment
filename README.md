@@ -2,7 +2,9 @@
 
 Creating a program using Computer Vision to track the movement of the balls of different colors across various quadrants in the video provided. 
 https://drive.google.com/file/d/1goI3aHVE29Gko9lpTzgi_g3CZZPjJq8w/view?usp=sharing
-The program will record the event of each ball entering and exiting each numbered quadrant. The event data will be recorded in the below format.
+
+The program will record the event of each ball entering and exiting each numbered quadrant.
+The event data will be recorded in the below format.
 
 Time, Quadrant Number, Ball Colour, Type (Entry or Exit)
 Timestamp: consider start of the video as 0 seconds and compute timestamp based on video duration.
