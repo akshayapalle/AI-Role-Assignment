@@ -8,7 +8,8 @@ The event data will be recorded in the below format.
 
 Time, Quadrant Number, Ball Colour, Type (Entry or Exit)
 Timestamp: consider start of the video as 0 seconds and compute timestamp based on video duration.
-The program should have provisions for feeding a new video and output should be saved in the local hard disk. Details of which need to be shared at the time of submission.
+The program should have provisions for feeding a new video and output should be saved in the local hard disk. 
+Details of which need to be shared at the time of submission.
 
 The processed video will incorporate the following.
 1) Ball tracking with color
